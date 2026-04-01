@@ -1,6 +1,6 @@
 # 🏫 Next.js Full-Stack School-Management Application /w Video Conference Integration
 
-This repository houses a comprehensive full-stack **School Management Application**, leveraging **Next.js**, **Tailwind CSS**, **Node.js**, and **PostgreSQL** with **Prisma ORM** and **Supabase**. The application is a modern solution to manage school operations efficiently with tailored dashboards for administrators, teachers, students, and parents.
+This repository contains a full-stack School Management Application built using Next.js, Tailwind CSS, Node.js, and PostgreSQL, with Prisma ORM and Supabase for efficient data management and backend services. The platform provides a modern, scalable solution for streamlining school operations, featuring role-based dashboards for administrators, teachers, students, and parents.
 
 ---
 ![Screenshot 2025-02-05 204026](https://github.com/user-attachments/assets/247249a3-2090-42a2-b92c-eeae039f91d6)
